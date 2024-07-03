@@ -1,6 +1,6 @@
 import machine
 import utime
-
+# penerangan setup in motor
 # Setup DC Motor pins
 M1A = machine.PWM(machine.Pin(8))
 M1B = machine.PWM(machine.Pin(9))
